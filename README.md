@@ -3,13 +3,13 @@
 
 🎓 BSc in Electronics and Communication Engineering graduate from KUET <br>
 🎓 Notredamian forever <br>
-🚀 I'm from Dhaka, Bangladesh. Actively searching for a relocation job in Europe. <br>
+🚀 I'm from Dhaka, Bangladesh. Actively searching for a relocation job in Europe <br>
 🚀 Transitioning into **DevOps & Cloud Engineering** <br>
 
-🔓 I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. <br>
+🔓 I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure <br>
 🔓 I've a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React) <br>
 🔓 Currently, I'm diving deep into automation, CI/CD, and system design to ensure Site Reliability <br>
-🔓 I'm committed to investing my time and effort to become FAANG-ready within the next 10 years.
+🔓 I'm committed to investing my time and effort to become FAANG-ready within the next 10 years
 
 ---
 
