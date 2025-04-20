@@ -6,7 +6,8 @@
 🚀 I'm from Dhaka, Bangladesh. Actively searching for a relocation job in Europe. <br>
 🚀 Transitioning into **DevOps & Cloud Engineering** <br>
 
-I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. With a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React), I'm diving deep into automation, CI/CD, and modern system design to bridge the gap between software development and operations. I'm eager to dedicate my time and energy to being FAANG-ready within the next 10 years.
+I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. With a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React), I'm diving deep into automation, CI/CD, and modern system design to bridge the gap between software development and operations. <br>
+I'm committed to investing my time and effort to become FAANG-ready within the next 10 years.
 
 ---
 
