@@ -71,14 +71,10 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 
 ![DevSecOps Image](devsecops.png)
 
+
+
+
 ---
 
 📫 **Let’s Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdmarjanrafi)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&style=flat-square)](https://hashnode.com/@marjanrafi)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&style=flat-square)](https://dev.to/marjanrafi)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&style=flat-square)](https://medium.com/@mdmarjanrafi)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=flat-square)](https://leetcode.com/u/marjanrafi/)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-FF6F1F?logo=interviewbit&style=flat-square)](https://www.interviewbit.com/profile/md-marjan-morshed-rafi/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-18A303?logo=geeksforgeeks&style=flat-square)](https://www.geeksforgeeks.org/user/marjanrafi/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=flat-square)](https://www.codechef.com/users/fast_mirth_41)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdmarjanrafi)  
