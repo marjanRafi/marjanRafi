@@ -1,3 +1,4 @@
+![Cover Image](wallpaper.jpg)
 ## 👋 Hi there! I'm Marjan Rafi
 
 🎓 BSc in Electronics and Communication Engineering from KUET  
