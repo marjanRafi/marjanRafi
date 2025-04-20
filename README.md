@@ -8,7 +8,7 @@
 
 🔓 I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. <br>
 🔓 I've a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React) <br>
-🔓 Currently, I'm diving deep into automation, CI/CD, and modern system design to bridge the gap between software development and operations. <br>
+🔓 Currently, I'm diving deep into automation, CI/CD, and system design to bridge the gap between software development and operations. <br>
 🔓 I'm committed to investing my time and effort to become FAANG-ready within the next 10 years.
 
 ---
