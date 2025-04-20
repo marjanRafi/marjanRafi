@@ -68,6 +68,11 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 > **[DevSecOps 2024 – Periodic Table (PDF)](https://digital.ai/wp-content/uploads/2024/04/digital-ai-periodic-table-of-devsecops-2024.pdf)**  
 > A comprehensive visual breakdown of DevSecOps tools, practices & platforms.
 
+![DevSecOps Image](https://github.com/marjanRafi/devsecops.png)
+
+
+
+
 ---
 
 📫 **Let’s Connect**:  
