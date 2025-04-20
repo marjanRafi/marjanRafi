@@ -2,14 +2,14 @@
 ## 👋 Hi there! I'm Marjan Rafi
 
 🎓 Electronics & Communication Engineering graduate from KUET
-🏛️ Proud Notredamian, where my passion for technology and excellence first took shape
+🏛️ Proud Notredamian -where my passion for technology and excellence first took shape
 
 📍 Currently in Dhaka, Bangladesh | 🌍 Open to relocation roles across Europe
 🔄 Shifting career into DevOps & Cloud Engineering -blending development and operations for system reliability
 
 💡 I’m a curious, self-driven learner on a mission to build scalable, resilient, and cloud-native infrastructure
 🛠️ With a strong base in OS fundamentals, version control (Git), and full-stack development
-💻 Experienced with Java, JavaScript, React, and actively applying these in real-world projects
+💻 Experienced with Java, JavaScript, Python, and actively applying these in real-world projects
 
 🚧 Deep diving into:
 
