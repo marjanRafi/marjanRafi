@@ -1,10 +1,12 @@
 ![Cover Image](cover.jpg)
 ## 👋 Hi there! I'm Marjan Rafi
 
-🎓 BSc in Electronics and Communication Engineering from KUET  
+🎓 BSc in Electronics and Communication Engineering graduate from KUET
+🎓 Notredamian forever
+🚀 I'm from Dhaka, Bangladesh. Actively searching for a relocation job in Europe.
 🚀 Transitioning into **DevOps & Cloud Engineering**
 
-I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. With a strong foundation in systems and full-stack development (Java, JavaScript, React), I'm diving deep into automation, CI/CD, and modern system design — aiming to bridge the gap between software development and operations.
+I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure. With a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React), I'm diving deep into automation, CI/CD, and modern system design to bridge the gap between software development and operations. I'm eager to dedicate my time and energy to being FAANG-ready within the next 10 years.
 
 ---
 
@@ -14,8 +16,11 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 #### 💻 Frontend & UI
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -23,7 +28,8 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 #### 🏗️ Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 #### 🐳 DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -31,7 +37,6 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 #### 🔁 CI/CD & Infrastructure
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -40,10 +45,17 @@ I'm a self-driven learner passionate about building scalable, reliable, and clou
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 #### 📊 Tools & Utilities
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-JetBrains-000000?style=flat-square&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+#### 🤖 **AI Tools**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-AI_Search-5A5A5A?style=flat-square)
 ---
 
 ### 🌱 Actively Learning & Exploring
