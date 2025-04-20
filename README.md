@@ -1,14 +1,25 @@
 ![Cover Image](cover.jpg)
 ## 👋 Hi there! I'm Marjan Rafi
 
-🎓 BSc in Electronics and Communication Engineering graduate from KUET <br>
-🎓 Notredamian forever <br>
-🚀 I'm from Dhaka, Bangladesh. Actively searching for a relocation job in Europe <br>
-🚀 Transitioning into **DevOps & Cloud Engineering** <br>
-🔓 I'm a self-driven learner passionate about building scalable, reliable, and cloud-native infrastructure <br>
-🔓 I've a strong foundation in operating systems, version control, and full-stack development (Java, JavaScript, React) <br>
-🔓 Currently, I'm diving deep into automation, CI/CD, and system design to ensure Site Reliability <br>
-🔓 I'm committed to investing my time and effort to become FAANG-ready within the next 10 years
+🎓 Electronics & Communication Engineering graduate from KUET
+🏛️ Proud Notredamian — where my passion for technology and excellence first took shape
+
+📍 Currently in Dhaka, Bangladesh | 🌍 Open to relocation roles across Europe
+🔄 Shifting gears into DevOps & Cloud Engineering — blending development and operations for system excellence
+
+💡 I’m a curious, self-driven learner on a mission to build scalable, resilient, and cloud-native infrastructure
+🛠️ With a strong base in OS fundamentals, version control (Git), and full-stack development
+💻 Experienced with Java, JavaScript, React, and actively applying these in real-world projects
+
+🚧 Deep diving into:
+
+CI/CD pipelines & automation
+
+Kubernetes, Docker & Infrastructure as Code
+
+System design for high availability and reliability
+
+🎯 Vision: To grow into a world-class engineer and become FAANG-ready within the next decade through constant learning, hands-on projects, and collaboration
 
 ---
 
