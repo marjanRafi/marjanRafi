@@ -98,6 +98,7 @@ System design for high availability and reliability
 
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=marjanRafi&label=Profile%20views&color=0e75b6&style=flat)
 
 📫 **Let’s Connect**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mdmarjanrafi)
