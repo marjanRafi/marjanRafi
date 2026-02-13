@@ -4,8 +4,6 @@
 
 I engineer **production-grade cloud platforms** that are secure by default and self-healing by design. Currently at **Pipeline Inc.** (Tokyo), I focus on the intersection of **Infrastructure as Code**, **Identity-Based Security**, and **Observability**.
 
----
-
 ### ⚡ Engineering Impact (Production)
 
 > *Real-world systems I am currently building and operating.*
@@ -46,10 +44,4 @@ Built a centralized monitoring stack to reduce "Mean Time to Detect" (MTTD).
 
 ---
 
-### 🚧 Active Lab
-**Project:** [`aws-immutable-webserver`](https://github.com/marjanRafi/aws-immutable-webserver)
-**Goal:** Engineering a self-provisioning EC2 architecture using Terraform remote state locking and User Data bootstrapping. No SSH required.
-
----
-
-[LinkedIn](https://linkedin.com/in/mdmarjanmorshedrafi) • [Medium](https://medium.com/@mdmarjanrafi) • [Email](mailto:mdmarjanrafi@gmail.com)
+[LinkedIn](https://linkedin.com/in/mdmarjanmorshedrafi) • [Medium](https://medium.com/@mdmarjanrafi)
